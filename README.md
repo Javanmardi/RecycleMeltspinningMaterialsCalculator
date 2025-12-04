@@ -2,6 +2,7 @@
 
 A Python-based GUI tool for calculating material balances in **recycling meltspinning processes**.  
 This calculator helps engineers to calculate the combination of oil, polymers, flakes, chips, masterbatch, waste, and the bunker mass during meltspinning with recycling inputs for recycled fibers plants.
+This tool mostly help plant engineers to calculate material percentage for ERP systems based on each 100 kg product for input materials.
 
 ---
 
