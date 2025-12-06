@@ -134,7 +134,7 @@ class MeltSpinningCalculator(tk.Tk):
         email_label.bind("<Button-1>", lambda e: open_email())
 
         ttk.Label(about_window, text="License: MIT").pack()
-        ttk.Label(about_window, text="Version: 1.0.0").pack(pady=(0, 10))
+        ttk.Label(about_window, text="Version: 1.5.1").pack(pady=(0, 10))
 
         ttk.Label(about_window, text="GitHub:").pack()
 
@@ -276,3 +276,4 @@ if __name__ == "__main__":
     app = MeltSpinningCalculator()
 
     app.mainloop()
+
