@@ -18,12 +18,6 @@ This tool mostly help plant engineers to calculate material percentage for ERP s
     - Flake 2 (enabled when “Mix” checkbox is selected)
   - Mix percentage (1–99%) splits flake distribution into two parts
 - **Calculate & Reset buttons** for quick recalculation
-- **Help → About menu** with:
-  - Author info
-  - Clickable email link
-  - License
-  - Version
-  - GitHub repository link
 
 ---
 
