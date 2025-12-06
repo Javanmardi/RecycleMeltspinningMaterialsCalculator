@@ -139,7 +139,7 @@ class MeltSpinningCalculator(tk.Tk):
         ttk.Label(about_window, text="GitHub:").pack()
 
         def open_github():
-            webbrowser.open("https://github.com/Javanmardi/RecycleMeltspinningMaterialsCalculator")
+            webbrowser.open("https://github.com/Javanmardi/RMCalculator")
 
         link_button = ttk.Button(about_window, text="Visit GitHub", command=open_github)
         link_button.pack(pady=5)
@@ -274,4 +274,5 @@ class MeltSpinningCalculator(tk.Tk):
 
 if __name__ == "__main__":
     app = MeltSpinningCalculator()
+
     app.mainloop()
